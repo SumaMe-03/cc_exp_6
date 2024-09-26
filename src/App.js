@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cloud Computing Exp 6
         </a>
       </header>
     </div>
