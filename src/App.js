@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Name: <strong>Suma Gadepalli</strong><br />
+          Name: <strong>Siddhi Hajare</strong><br />
           Class: <strong>BE 5</strong><br />
-          Roll No: <strong>42364</strong>
+          Roll No: <strong>42323</strong><br />
           Subject: <strong>Cloud Computing</strong><br />
         </p>
         <a
